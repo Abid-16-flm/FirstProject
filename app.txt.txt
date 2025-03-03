@@ -1,2 +1,2 @@
-server. Port=8080;
+server. Port=8082;
 spring.application.name=Employee;
